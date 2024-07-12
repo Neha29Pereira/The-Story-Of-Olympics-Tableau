@@ -23,5 +23,6 @@ This dashboard serves as a powerful tool for understanding the global distributi
 Countries,Map and Figure ->
 ![dashbord](https://github.com/Neha29Pereira/The-Story-Of-Olympics-Tableau/blob/main/Countries.png)
 
+Tooltips and interactive elements to explore specific datasets in more detail.
 EDA ->
 ![dashbord](https://github.com/Neha29Pereira/The-Story-Of-Olympics-Tableau/blob/main/EDA.png)
